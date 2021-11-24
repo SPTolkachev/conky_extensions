@@ -46,8 +46,8 @@
 default_color ffffff
 color0 FFA300
 color1 DDDDDD
-
-
+<br/>
+<br/>
 TEXT
 ${font Noto Sans:size=12}Time before the trip: ${alignr}${font Hack:size=11}${color0}\\
 ${execp conky_extensions/extensions/days_before.py\\
